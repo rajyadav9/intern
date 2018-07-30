@@ -1,2 +1,0 @@
-# intern
-flask-app
